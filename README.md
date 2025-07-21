@@ -98,11 +98,6 @@ I'm an enthusiastic Frontend Developer currently interning at **@cazhacademy**, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffyqulazzam&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/raffyqulazzam/raffyqulazzam/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
-
 ---
 
 <div align="center">
@@ -113,6 +108,7 @@ I'm an enthusiastic Frontend Developer currently interning at **@cazhacademy**, 
   
 </div>
 
+###
 <div align="center">
   
   **"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie**
